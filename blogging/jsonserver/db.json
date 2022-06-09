@@ -1,0 +1,29 @@
+{
+  "blogposts": [
+    {
+      "id": 1,
+      "title": "API POST",
+      "content": "content for my Post!!"
+    },
+    {
+      "title": "Newly Created API POST",
+      "content": "Some Contente",
+      "id": 2
+    },
+    {
+      "title": "3 POST",
+      "content": "Terceirooooo esta a funcionar",
+      "id": 3
+    },
+    {
+      "title": "ESTA ESTÁ DESPACHADA",
+      "content": "Finally!!! 🤜🏽💥🤛🏾",
+      "id": 5
+    },
+    {
+      "title": "CREATE",
+      "content": "Created",
+      "id": 6
+    }
+  ]
+}
